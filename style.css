@@ -55,19 +55,11 @@ li a:hover {
 #central-soldiers {
     width: 800px;
     height: 550px;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
     border: 2px solid #808F85;
     border-radius: 20px;
 }
-.importance div {
-    float: left;
-    clear: none;
-}
 .importance-reason {
     width: 700px;
-    margin-top: 100px;
     font-size: 19px;
     font-family: 'Noto Serif', serif;
     letter-spacing: 2px;
@@ -75,16 +67,11 @@ li a:hover {
 #ottoman-empire {
     width: 800px;
     height: 550px;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-bottom: 10px;
-    margin-left: 50px;
     border: 2px solid #3D1308;
     border-radius: 20px;
 }
 .ottoman-reason {
     width: 700px;
-    margin-top: 100px;
     font-size: 19px;
     font-family: 'Noto Serif', serif;
     letter-spacing: 2px;
@@ -92,17 +79,15 @@ li a:hover {
 #central-map {
     width: 800px;
     height: 600px;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-bottom: 10px;
-    margin-left: 50px;
     border: 2px solid #7B0D1E;
     border-radius: 20px;
 }
 .start-of-war {
     width: 700px;
-    margin-top: 50px;
     font-size: 19px;
     font-family: 'Noto Serif', serif;
     letter-spacing: 2px;
+}
+img {
+    margin-top: 25px;
 }
