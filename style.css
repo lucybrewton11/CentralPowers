@@ -11,8 +11,8 @@
 
 .main_summary {
     margin-top: 10px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-size: 20px;
 }
 
@@ -57,7 +57,7 @@ li a:hover {
     height: 550px;
     margin-top: 50px;
     margin-right: 50px;
-    margin-left: 100px;
+    margin-left: 50px;
     border: 2px solid #808F85;
     border-radius: 20px;
 }
@@ -66,7 +66,7 @@ li a:hover {
     clear: none;
 }
 .importance-reason {
-    width: 800px;
+    width: 700px;
     margin-top: 100px;
     font-size: 19px;
     font-family: 'Noto Serif', serif;
@@ -76,14 +76,14 @@ li a:hover {
     width: 800px;
     height: 550px;
     margin-top: 50px;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-bottom: 10px;
-    margin-left: 100px;
+    margin-left: 50px;
     border: 2px solid #3D1308;
     border-radius: 20px;
 }
 .ottoman-reason {
-    width: 800px;
+    width: 700px;
     margin-top: 100px;
     font-size: 19px;
     font-family: 'Noto Serif', serif;
@@ -93,14 +93,14 @@ li a:hover {
     width: 800px;
     height: 600px;
     margin-top: 50px;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-bottom: 10px;
-    margin-left: 100px;
+    margin-left: 50px;
     border: 2px solid #7B0D1E;
     border-radius: 20px;
 }
 .start-of-war {
-    width: 800px;
+    width: 700px;
     margin-top: 50px;
     font-size: 19px;
     font-family: 'Noto Serif', serif;
